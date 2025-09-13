@@ -22,13 +22,10 @@ This repo contains learning resources, projects, and guides from our wide range 
 - **Python Programming** – Beginner to advanced Python development.
 - **Amazon Affiliate Program** – Earn online with affiliate marketing.
 - **English Language** – Improve communication & fluency.
-- **Music Classes** – Learn instruments & music basics.
-- **Tuition Centre** – Academic support for multiple subjects.
-
+  
 ## 🎯 Purpose
 Our aim is to provide **practical, project-based learning** in software development, design, marketing, and technology skills.
 
 ## 🔗 Connect with Us
-- GitHub: [https://github.com/Usama-Ahmed-Rajput]()
 - Email: kingdatabaseofficial@gmail.com
 - Website: [Coming Soon]()
